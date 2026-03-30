@@ -214,3 +214,5 @@ College: Aryabhatta College
 Year: 2020 – 2023
 
 Result: First Division (69.8%)
+
+---
