@@ -62,14 +62,10 @@ implemented in C++ with proper edge case handling and basic optimization.
 ## Sample Code 1 — Array Maximum (With Edge Case Check)
 
 ```cpp
-// Find largest element in array with Safety Check
-// Author: Anurag Lodhi
-
 #include <iostream>
 using namespace std;
 
 int findMax(int arr[], int n) {
-    // Edge Case: Check if array is empty
     if (n <= 0) return -1;
 
     int maxVal = arr[0];
@@ -99,9 +95,6 @@ int main() {
 
 Sample Code 2 — Bubble Sort (Optimized)
 
-// Bubble Sort — Optimized
-// Author: Anurag Lodhi
-
 #include <iostream>
 using namespace std;
 
@@ -118,7 +111,6 @@ void bubbleSort(int arr[], int n) {
             }
         }
 
-        // Stop if already sorted
         if(!swapped) break;
     }
 }
@@ -145,14 +137,11 @@ int main() {
 
 Sample Code 3 — Factorial (Recursion)
 
-// Factorial using Recursion
-// Author: Anurag Lodhi
-
 #include <iostream>
 using namespace std;
 
 int factorial(int n) {
-    if(n < 0) return -1;   // Edge case
+    if(n < 0) return -1;
     if(n == 0 || n == 1) return 1;
     return n * factorial(n - 1);
 }
@@ -168,9 +157,6 @@ int main() {
 ---
 
 Sample Code 4 — Linear Search
-
-// Linear Search
-// Author: Anurag Lodhi
 
 #include <iostream>
 using namespace std;
@@ -203,30 +189,8 @@ int main() {
 
 About
 
-I am a Computer Science graduate with hands-on experience in C++, Data Structures, and problem-solving.
-
-Degree: BSc Mathematics, Physics & Computer Science
-
-University: Barkatullah University
-
-College: Aryabhatta College
-
-Year: 2020 – 2023
-
-Result: First Division (69.8%)
-
-
----
-
-Future Improvements
-
-Add advanced algorithms (Merge Sort, Quick Sort)
-
-Implement STL-based solutions
-
-Add LeetCode / HackerRank problems
-
-Convert programs into reusable modules
-
+BSc Mathematics, Physics & Computer Science
+Aryabhatta College, Barkatullah University
+2020 – 2023 | First Division 69.8%
 
 ---
