@@ -189,8 +189,14 @@ int main() {
 
 About
 
-BSc Mathematics, Physics & Computer Science
-Aryabhatta College, Barkatullah University
-2020 – 2023 | First Division 69.8%
+I am a Computer Science graduate with hands-on experience in C++, Data Structures, and problem-solving.
 
----
+Degree: BSc Mathematics, Physics & Computer Science
+
+University: Barkatullah University
+
+College: Aryabhatta College
+
+Year: 2020 – 2023
+
+Result: First Division (69.8%)
