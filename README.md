@@ -187,7 +187,7 @@ int main() {
 
 ---
 
-About
+## About
 
 I am a Computer Science graduate with hands-on experience in C++, Data Structures, and problem-solving.
 
