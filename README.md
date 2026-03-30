@@ -201,7 +201,7 @@ int main() {
 
 ---
 
-About
+## About
 
 I am a Computer Science graduate with hands-on experience in C++, Data Structures, and problem-solving.
 
@@ -214,5 +214,3 @@ College: Aryabhatta College
 Year: 2020 – 2023
 
 Result: First Division (69.8%)
-
----
